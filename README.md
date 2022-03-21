@@ -6,7 +6,7 @@ This database oprations will help you to execute a business analysis, guiding yo
 
 ![Screenshot](orders.png)
 
-sql query perform in this table
+SQL query perform in this table
 1. sum
 2. James Monroe
 3. John Quincy Adams
