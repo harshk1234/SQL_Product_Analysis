@@ -6,6 +6,12 @@ This database oprations will help you to execute a business analysis, guiding yo
 
 ![Screenshot](orders.png)
 
+1)Order_no (PK)
+  values 1,2,3....
+ 
+ 2)
+
+
 SQL query perform in this table
 1. sum
 2. James Monroe
