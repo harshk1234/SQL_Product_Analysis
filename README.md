@@ -1,2 +1,2 @@
 # SQL_Product_Analysis
-![Screenshot](Orders.png)
+![Screenshot](orders.png)
